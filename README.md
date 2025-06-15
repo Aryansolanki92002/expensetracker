@@ -68,7 +68,7 @@ expense-tracker/
 
 ### 1. Clone the repository
 ```bash
- 
+ https://github.com/Aryansolanki92002/expensetracker.git
 ```
 
 ### 2. Install dependencies

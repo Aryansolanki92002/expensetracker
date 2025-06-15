@@ -68,8 +68,7 @@ expense-tracker/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Ghoosted-jpg/ExpenseTracker-React.git
-cd ExpenseTracker-React
+ 
 ```
 
 ### 2. Install dependencies

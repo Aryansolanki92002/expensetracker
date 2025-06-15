@@ -4,12 +4,6 @@
 
 A **simple yet powerful expense tracking web app** built with **React**, **Tailwind CSS**, and **Recharts**. Easily manage your daily expenses, view spending trends, and visualize category breakdowns — all without needing a backend!
 
-
-## 🚀 Live Demo
-> 🔁 Want to see how it looks live?  
-👉 [Live Demo](https://ghoosted-jpg.github.io/ExpenseTracker-React/)
-
-
 ## ✨ Features
 
 ✅ Add, edit, and delete expenses  
